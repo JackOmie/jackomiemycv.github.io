@@ -1,2 +1,2 @@
-# jackomiemycv.github.io
+# jackomie.github.io
 Testing Testing 
